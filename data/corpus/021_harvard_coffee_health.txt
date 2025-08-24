@@ -1,0 +1,4 @@
+SOURCE: Harvard T.H. Chan School of Public Health
+DOC_ID: 021_harvard_coffee_health
+
+Large cohort studies summarized by Harvard researchers associate moderate coffee consumption—about three to five cups per day—with lower risk of type 2 diabetes and certain neurodegenerative diseases. Benefits appear driven partly by polyphenols rather than caffeine alone. Excessive intake or unfiltered coffee may raise cholesterol in some individuals.

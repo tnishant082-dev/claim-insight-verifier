@@ -1,0 +1,4 @@
+SOURCE: CISA Alert Summary
+DOC_ID: 029_cisa_ransomware
+
+The U.S. Cybersecurity and Infrastructure Security Agency continued to warn that ransomware groups target critical infrastructure and small-to-medium businesses alike. Recommended mitigations include timely patching, offline backups, and multi-factor authentication. Paying ransoms does not guarantee data recovery and may fund further criminal activity.

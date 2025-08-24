@@ -1,0 +1,4 @@
+SOURCE: USGS Fact Sheet
+DOC_ID: 020_usgs_plate_tectonics
+
+The U.S. Geological Survey describes plate tectonics as the unifying theory explaining earthquakes, volcanoes, and mountain building. Seafloor magnetic striping and GPS velocity fields provide direct observational support. The theory is considered settled science within the geoscience community.

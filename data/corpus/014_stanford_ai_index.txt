@@ -1,0 +1,4 @@
+SOURCE: Stanford AI Index 2024
+DOC_ID: 014_stanford_ai_index
+
+The Stanford AI Index reported that private investment in generative AI surged in 2023 even as overall AI private investment declined year over year. Foundation-model releases accelerated across industry and academia. Performance gaps between open-weight and closed models narrowed on several public benchmarks.

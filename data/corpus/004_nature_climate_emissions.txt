@@ -1,0 +1,4 @@
+SOURCE: Nature Climate News
+DOC_ID: 004_nature_climate_emissions
+
+A peer-reviewed synthesis published in Nature Climate Change found that energy-related CO2 emissions rose about 1.1% in 2023, driven largely by heatwaves boosting cooling demand and by recovering aviation traffic. Researchers noted that the emissions growth rate has slowed compared with the previous decade but remains incompatible with 1.5°C pathways.

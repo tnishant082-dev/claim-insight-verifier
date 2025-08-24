@@ -1,0 +1,4 @@
+SOURCE: BloombergNEF Brief
+DOC_ID: 003_bloomberg_wind_capacity
+
+Onshore wind installations added more than 100 gigawatts worldwide in 2023, BloombergNEF estimated. China, the United States, and Brazil led capacity additions. Average capacity factors for new onshore projects improved modestly as turbine hub heights increased.

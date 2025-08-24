@@ -1,0 +1,4 @@
+SOURCE: American Academy of Pediatrics
+DOC_ID: 032_aap_vaccine_schedule
+
+The American Academy of Pediatrics endorses the CDC childhood immunization schedule, including two doses of MMR. Pediatricians are encouraged to address parental concerns with evidence-based counseling. Delaying vaccines beyond recommended ages increases vulnerability during peak disease-risk windows.

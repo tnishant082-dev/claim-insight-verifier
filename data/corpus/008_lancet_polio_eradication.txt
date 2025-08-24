@@ -1,0 +1,4 @@
+SOURCE: The Lancet Infectious Diseases
+DOC_ID: 008_lancet_polio_eradication
+
+Wild poliovirus type 1 remains endemic in only two countries, Afghanistan and Pakistan, according to Global Polio Eradication Initiative updates cited in The Lancet. Oral and inactivated polio vaccines have reduced global cases by more than 99% since 1988. Circulating vaccine-derived poliovirus outbreaks remain a concern in under-immunized regions.

@@ -1,0 +1,4 @@
+SOURCE: CDC MMWR
+DOC_ID: 007_cdc_mmr_safety
+
+Surveillance data summarized by the U.S. Centers for Disease Control and Prevention show that serious adverse events after MMR vaccination remain rare. The most common reactions are mild fever and transient rash. Large epidemiological studies have not found a causal link between MMR vaccination and autism spectrum disorders.

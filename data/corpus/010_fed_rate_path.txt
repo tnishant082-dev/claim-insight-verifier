@@ -1,0 +1,4 @@
+SOURCE: Federal Reserve FOMC Minutes
+DOC_ID: 010_fed_rate_path
+
+Federal Open Market Committee participants judged that the policy rate was likely at or near its peak for this tightening cycle. Several members emphasized that inflation progress had been uneven and that premature rate cuts could reverse hard-won gains. Markets priced in multiple cuts for late 2024, though officials stressed data dependence.

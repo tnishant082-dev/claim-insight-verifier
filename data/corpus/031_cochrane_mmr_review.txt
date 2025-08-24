@@ -1,0 +1,4 @@
+SOURCE: Cochrane Database of Systematic Reviews
+DOC_ID: 031_cochrane_mmr_review
+
+A Cochrane systematic review of MMR vaccine studies concluded that the vaccine is effective at preventing measles, mumps, and rubella, and that the existing epidemiological evidence does not support a causal association with autism. Review authors rated overall certainty as high for the lack of autism association based on large cohort and case-control studies.

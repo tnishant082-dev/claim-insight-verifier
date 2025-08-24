@@ -1,0 +1,4 @@
+SOURCE: IMF World Economic Outlook
+DOC_ID: 011_imf_global_growth
+
+The International Monetary Fund projected global GDP growth of about 3.2% for 2024, roughly matching 2023. Advanced economies were expected to grow more slowly than emerging markets. The Fund warned that elevated geopolitical tensions and fragmented trade policies pose downside risks to the baseline forecast.

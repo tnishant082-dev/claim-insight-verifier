@@ -1,0 +1,4 @@
+SOURCE: NITI Aayog Brief
+DOC_ID: 028_niti_digital_india
+
+Digital public infrastructure initiatives including UPI payments and Aadhaar-enabled services scaled rapidly, with UPI processing billions of transactions monthly by 2024. Policy briefs credit open protocol design and public-private collaboration. Digital divides in rural broadband access remain an active policy focus.

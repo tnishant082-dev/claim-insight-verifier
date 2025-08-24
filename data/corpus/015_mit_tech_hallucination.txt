@@ -1,0 +1,4 @@
+SOURCE: MIT Technology Review
+DOC_ID: 015_mit_tech_hallucination
+
+Large language models continue to produce fluent but incorrect statements, a failure mode commonly called hallucination. Researchers warn that retrieval-augmented generation reduces but does not eliminate the problem. Enterprise deployments increasingly pair models with citation and verification layers before high-stakes use.

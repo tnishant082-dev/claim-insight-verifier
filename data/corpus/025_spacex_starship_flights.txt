@@ -1,0 +1,4 @@
+SOURCE: Spaceflight Now
+DOC_ID: 025_spacex_starship_flights
+
+SpaceX conducted multiple integrated flight tests of its Starship vehicle from Starbase, Texas, through 2024. Several flights reached space before ending in planned or unplanned vehicle loss. The company iterated heat-shield and flap designs between tests under FAA launch licenses.

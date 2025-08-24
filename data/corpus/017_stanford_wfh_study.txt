@@ -1,0 +1,4 @@
+SOURCE: Stanford Institute for Economic Policy Research
+DOC_ID: 017_stanford_wfh_study
+
+A randomized study of call-center employees at a large Chinese travel firm found that working from home two days per week increased productivity by roughly 13% relative to fully office-based peers, Stanford researchers reported. Attrition fell and employee satisfaction rose. Managers later expanded the hybrid option after reviewing the experimental results.

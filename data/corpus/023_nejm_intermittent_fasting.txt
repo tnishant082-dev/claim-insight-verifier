@@ -1,0 +1,4 @@
+SOURCE: New England Journal of Medicine Review
+DOC_ID: 023_nejm_intermittent_fasting
+
+A clinical review in NEJM concluded that intermittent fasting can produce weight loss comparable to continuous calorie restriction in adherent adults. Evidence for metabolic benefits beyond calorie reduction remains mixed. Individuals with diabetes or eating-disorder histories should consult clinicians before trying fasting protocols.

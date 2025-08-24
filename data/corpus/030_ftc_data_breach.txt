@@ -1,0 +1,4 @@
+SOURCE: FTC Consumer Protection
+DOC_ID: 030_ftc_data_breach
+
+The Federal Trade Commission reported that identity-theft and data-breach complaints remained elevated in 2023. Consumers were advised to freeze credit files after major breaches and to treat unsolicited reset links with skepticism. Organizations face growing expectations to disclose breaches promptly under state and sectoral rules.

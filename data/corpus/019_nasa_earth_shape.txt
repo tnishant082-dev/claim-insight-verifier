@@ -1,0 +1,4 @@
+SOURCE: NASA Earth Science
+DOC_ID: 019_nasa_earth_shape
+
+Satellite imagery, GPS constellation geometry, and centuries of geodetic measurements confirm that Earth is an oblate spheroid. Circumnavigation records, lunar eclipse shadow shapes, and varying star visibility by latitude independently support a roughly spherical Earth. Flat-Earth claims contradict multiple independent lines of physical evidence.

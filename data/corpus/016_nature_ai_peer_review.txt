@@ -1,0 +1,4 @@
+SOURCE: Nature News
+DOC_ID: 016_nature_ai_peer_review
+
+Several scientific publishers began experimenting with AI tools to assist peer review screening in 2024, Nature reported. Editors emphasized that final acceptance decisions remain human-led. Concerns about confidentiality of unpublished manuscripts and model training data persist across the research community.

@@ -1,0 +1,4 @@
+SOURCE: ESA / JWST Mission Update
+DOC_ID: 024_esa_james_webb
+
+The James Webb Space Telescope has delivered infrared images of early galaxies dating to within a few hundred million years after the Big Bang. Spectroscopic follow-up confirmed atmospheric features in several exoplanets. Mission partners NASA, ESA, and CSA continue joint operations from the Sun-Earth L2 point.

@@ -1,0 +1,4 @@
+SOURCE: Reserve Bank of India Bulletin
+DOC_ID: 026_rbi_inflation_india
+
+India's consumer price inflation moderated toward the RBI's 4% target band during parts of 2024, though food price volatility remained a key uncertainty. The Monetary Policy Committee held the repo rate steady through several meetings while monitoring global oil prices and monsoon outcomes.

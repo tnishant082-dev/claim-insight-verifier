@@ -1,0 +1,4 @@
+SOURCE: IEA Global EV Outlook
+DOC_ID: 033_iea_ev_outlook
+
+Electric car sales exceeded 14 million units globally in 2023, representing roughly 18% of all cars sold, the IEA reported. China accounted for more than half of sales. Battery supply-chain concentration and grid readiness remain structural challenges even as cost parity with combustion vehicles approaches in more markets.

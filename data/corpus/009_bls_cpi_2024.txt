@@ -1,0 +1,4 @@
+SOURCE: U.S. Bureau of Labor Statistics
+DOC_ID: 009_bls_cpi_2024
+
+The Consumer Price Index for All Urban Consumers rose 3.2% over the 12 months ending March 2024, the Bureau of Labor Statistics reported. Shelter and energy were among the largest contributors. Core CPI excluding food and energy increased 3.8% over the same period, remaining above the Federal Reserve's 2% longer-run goal.

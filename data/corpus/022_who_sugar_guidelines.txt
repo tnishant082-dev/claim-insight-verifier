@@ -1,0 +1,4 @@
+SOURCE: WHO Nutrition Guidelines
+DOC_ID: 022_who_sugar_guidelines
+
+The World Health Organization recommends limiting free sugars to less than 10% of total energy intake, and ideally below 5%, to reduce risk of dental caries and unhealthy weight gain. Sugar-sweetened beverages are a major source of free sugars in many diets. Guidelines apply to adults and children alike.

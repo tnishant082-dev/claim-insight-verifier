@@ -1,0 +1,4 @@
+SOURCE: Gallup Workplace Report
+DOC_ID: 018_gallup_hybrid_engagement
+
+Gallup surveys in 2023–2024 found that hybrid remote workers reported engagement scores comparable to or slightly higher than fully on-site peers in knowledge-work roles. Fully remote workers showed more variance by industry. Clear expectations and manager support were stronger predictors of engagement than location alone.

@@ -1,0 +1,4 @@
+SOURCE: OpenAI Blog Archive
+DOC_ID: 013_openai_gpt4_release
+
+OpenAI released GPT-4 in March 2023, describing it as a large multimodal model that accepts image and text inputs. Benchmark scores on professional and academic exams improved substantially over GPT-3.5. The company noted remaining limitations including hallucinations and limited context windows relative to later models.

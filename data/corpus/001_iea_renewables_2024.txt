@@ -1,0 +1,4 @@
+SOURCE: IEA World Energy Outlook
+DOC_ID: 001_iea_renewables_2024
+
+Global renewable electricity capacity additions reached a record 507 gigawatts in 2023, according to the International Energy Agency. Solar photovoltaic alone accounted for roughly three-quarters of the increase. The agency projects that renewables will overtake coal as the largest source of global electricity generation by 2025 if current policy settings hold.

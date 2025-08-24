@@ -1,0 +1,4 @@
+SOURCE: ICCT White Paper
+DOC_ID: 034_transport_lifecycle_emissions
+
+Lifecycle analyses by the International Council on Clean Transportation find that battery electric vehicles typically emit substantially less greenhouse gas over their lifetime than comparable gasoline cars in most electricity grids. Benefits are smaller on coal-heavy grids but still positive in the majority of modeled regions. Mining impacts for battery minerals require responsible sourcing policies.

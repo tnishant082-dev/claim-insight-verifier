@@ -1,0 +1,4 @@
+SOURCE: WHO Fact Sheet
+DOC_ID: 006_who_measles_vaccines
+
+Two doses of measles-containing vaccine provide approximately 97% protection against measles when administered according to schedule, the World Health Organization reports. Countries with sustained high coverage have driven measles incidence to near-elimination levels. Outbreaks typically reappear when vaccination rates fall below herd-immunity thresholds of roughly 95%.

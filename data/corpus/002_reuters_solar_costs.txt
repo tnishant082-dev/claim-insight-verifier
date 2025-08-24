@@ -1,0 +1,4 @@
+SOURCE: Reuters Energy Desk
+DOC_ID: 002_reuters_solar_costs
+
+Utility-scale solar module prices fell below $0.15 per watt in several Asian markets in early 2024, Reuters reporting showed. Analysts attributed the decline to manufacturing oversupply in China and improved cell efficiencies. Falling hardware costs continue to make new solar plants cheaper than new coal plants in most regions without subsidies.

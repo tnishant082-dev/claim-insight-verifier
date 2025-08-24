@@ -1,0 +1,4 @@
+SOURCE: Wall Street Journal Economics
+DOC_ID: 012_wsj_wage_growth
+
+Average hourly earnings in the United States rose approximately 4.1% year over year in early 2024, outpacing headline inflation and supporting real wage gains for many workers. Labor-market tightness eased from 2022 peaks as job openings declined, yet unemployment remained historically low near 3.8%.

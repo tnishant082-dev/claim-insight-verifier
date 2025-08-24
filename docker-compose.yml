@@ -1,0 +1,30 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - CORPUS_DIR=/app/data/corpus
+      - DATABASE_URL=sqlite:////app/data/checks.db
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-https://api.openai.com/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+    volumes:
+      - civ-db:/app/data/db
+    command: >
+      sh -c "mkdir -p /app/data/db &&
+      DATABASE_URL=sqlite:////app/data/db/checks.db
+      uvicorn app.main:app --host 0.0.0.0 --port 8000"
+
+  ui:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      - api
+    command: streamlit run ui/streamlit_app.py --server.address 0.0.0.0 --server.port 8501
+
+volumes:
+  civ-db:
