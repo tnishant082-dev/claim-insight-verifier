@@ -13,6 +13,23 @@ Offline-first MVP for recruiters and demo walks. No paid API key required — a 
 
 ---
 
+## Demo
+
+Silent walkthrough (~38s): open UI → paste SUPPORT claim → verify → dossier → paste REFUTE claim → show result → check history.
+
+[▶ Watch demo video](artifacts/claim-insight-verifier-demo.mp4)
+
+| Home / paste claim | SUPPORT dossier |
+|:---:|:---:|
+| ![Home](screenshots/01-home.png) | ![SUPPORT](screenshots/02-support.png) |
+| **REFUTE dossier** | **Check history** |
+| ![REFUTE](screenshots/03-refute.png) | ![History](screenshots/04-history.png) |
+
+Fixtures used above:
+
+- **SUPPORT** — *Two doses of measles vaccine provide strong protection against measles.*
+- **REFUTE** — *The MMR vaccine causes autism in children.*
+
 ## Why this exists
 
 Claim verification is a clean fullstack + DS + GenAI slice:
@@ -119,6 +136,8 @@ pytest -q
 app/                  # FastAPI + services (normalize, retrieve, features, LLM, pipeline)
 ui/streamlit_app.py   # Dashboard + history
 data/corpus/          # ~35 synthetic evidence paragraphs with SOURCE labels
+screenshots/          # UI captures (home, SUPPORT, REFUTE, history)
+artifacts/            # Silent walkthrough MP4
 tests/                # pytest (API + unit)
 Dockerfile
 docker-compose.yml
